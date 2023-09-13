@@ -1,15 +1,15 @@
 .header {
     background-color: #f1f1f1;
     width: 100%;
-    padding: 1px 0; /* Add vertical padding */
-    position: fixed; /* Fixed position to keep it at the top */
-    top: 0; /* Position at the top */
-    left: 0; /* Position at the left */
-    z-index: 1000; /* Set a high z-index to make sure it's on top of other content */
-    height: 80px; /* Add height to reserve space for the header */
+    padding: 1px ; ; 
+    position: fixed; 
+    top: 0; 
+    left:0; 
+    z-index: 1000; 
+    height: 75px; 
 }
 .idk {
-    margin-top: 150px; /* Adjust the value to create the desired space */
+    margin-top: 150px; 
     display: flex;
     justify-content: space-between;
     align-items: center;
